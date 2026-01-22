@@ -1,0 +1,7 @@
+
+{
+  "name": "fraud-ui",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
